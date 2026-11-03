@@ -39,3 +39,5 @@ contributions are where I show how I work.
 
 - LinkedIn: [linkedin.com/in/renan-kemp](https://www.linkedin.com/in/renan-kemp/)
 - GitHub: [@intelmib](https://github.com/intelmib)
+
+- Youtube: [https://www.youtube.com/renankemp](https://www.youtube.com/renankemp)
